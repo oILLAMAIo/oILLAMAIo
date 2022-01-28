@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @oILLAMAIo
 - 👀 I’m interested in Minecraft bedrock edition
 - 🌱 I’m currently learning make addon and texture
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-P
+- 💞️ I’m looking to collaborate on discord
+- 📫 How to reach me LamCraft discord
